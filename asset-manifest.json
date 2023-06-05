@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reatc-app/static/css/main.cb87d377.css",
-    "main.js": "/reatc-app/static/js/main.607e2113.js",
+    "main.js": "/reatc-app/static/js/main.ee54c710.js",
     "static/js/787.b701888c.chunk.js": "/reatc-app/static/js/787.b701888c.chunk.js",
     "index.html": "/reatc-app/index.html",
     "main.cb87d377.css.map": "/reatc-app/static/css/main.cb87d377.css.map",
-    "main.607e2113.js.map": "/reatc-app/static/js/main.607e2113.js.map",
+    "main.ee54c710.js.map": "/reatc-app/static/js/main.ee54c710.js.map",
     "787.b701888c.chunk.js.map": "/reatc-app/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb87d377.css",
-    "static/js/main.607e2113.js"
+    "static/js/main.ee54c710.js"
   ]
 }
