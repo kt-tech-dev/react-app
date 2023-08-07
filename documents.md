@@ -14,6 +14,26 @@
 
 # コンポーネント設計
 
-## page
+## Page
 
 ### MCU
+
+- 責務  
+次回作と次々回作の情報を表示するページ
+
+- props
+ 
+| 物理名 |型| 概要 |
+|---|---|---|
+|movieInfo|Array\<movieInfo>|映画の情報|
+
+```typescript
+type movieInfo = {
+    days_until: number;
+    overview: string;
+    poster_url: string;
+    release_date: string;
+    title: string;
+    type: string;
+}
+```
